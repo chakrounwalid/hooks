@@ -26,3 +26,4 @@ const  MovieList = ({list}) => {
     //)
 //}
 export default  MovieList
+
